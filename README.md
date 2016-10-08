@@ -1,2 +1,2 @@
 # hello-world
-rick's stag tomo
+Rookie programmer trying to make a change.
